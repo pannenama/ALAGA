@@ -1,0 +1,5 @@
+hi!
+
+-make the new file
+-stage new file (aka BOARD THE PLANE)
+- COMMIT

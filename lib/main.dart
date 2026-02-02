@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'new shit/config/app_colors.dart';
-import 'new shit/routes.dart';
+import 'MainCode/config/app_colors.dart';
+import 'MainCode/routes.dart';
+
 
 
 void main() {

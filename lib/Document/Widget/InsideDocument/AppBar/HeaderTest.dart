@@ -1,7 +1,6 @@
-import 'package:alaga/Document/Screen/mainScreen/DocumentScreen.dart';
-import 'package:alaga/new%20shit/screens/documents/documents_page.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import '../../../../MainCode/screens/documents/documents_page.dart';
 import '../../OutsideDocument/Data/DataStoring.dart';
 import 'AppBarContents.dart';
 
